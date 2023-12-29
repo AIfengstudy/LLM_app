@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="images">
+    <file>image/gccz_Logos.png</file>
+    <file>image/gzzca_1.jpg</file>
+    <file>image/gzzca_2.jpg</file>
+    <file>image/gzzca_3.jpg</file>
+    <file>image/gzzca_Logo.png</file>
+    <file>image/gzzca_Logoss.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/next_page.png</file>
+    <file>icons/bin.png</file>
+    <file>icons/file.png</file>
+    <file>icons/folder.png</file>
+    <file>icons/json.png</file>
+    <file>icons/model.png</file>
+    <file>icons/python.png</file>
+  </qresource>
+</RCC>

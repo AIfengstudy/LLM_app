@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="image">
+    <file>images/image/leftt.png</file>
+    <file>images/image/left.jpg</file>
+    <file>images/image/bottombg.png</file>
+    <file>images/image/button.png</file>
+    <file>images/image/center_index.png</file>
+    <file>images/image/close.png</file>
+    <file>images/image/login_index.png</file>
+    <file>images/image/logo.png</file>
+    <file>images/image/logo_title.png</file>
+    <file>images/image/logos.png</file>
+    <file>images/image/logout.png</file>
+    <file>images/image/next.png</file>
+    <file>images/image/prev.png</file>
+    <file>images/image/topbg.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>images/icon/ico01.png</file>
+    <file>images/icon/ico02.png</file>
+    <file>images/icon/ico03.png</file>
+    <file>images/icon/ico04.png</file>
+    <file>images/icon/ico05.png</file>
+    <file>images/icon/ico06.png</file>
+    <file>images/icon/ico07.png</file>
+  </qresource>
+</RCC>

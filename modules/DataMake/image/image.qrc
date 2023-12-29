@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>gzzca_1.jpg</file>
+    <file>gzzca_3.jpg</file>
+    <file>gzzca_Logo.png</file>
+    <file>gzzca_Logoss.png</file>
+    <file>gzzca_2.jpg</file>
+  </qresource>
+</RCC>
