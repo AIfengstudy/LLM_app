@@ -34,8 +34,8 @@
 import hashlib
 import json
 
-# 读取 data.json 文件内容
-with open('data.json', 'r') as file:
+# 读取 datas.json 文件内容
+with open('datas.json', 'r') as file:
     data = json.load(file)
 
 # 将数据转换为 JSON 字符串
