@@ -325,7 +325,17 @@ class ForthMainWindow(QMainWindow):
         self.setWindowTitle('未命名')
 
     def fileopen(self):
-        os.chdir(r'C:\Users\rkwork\Desktop\GZZC_LLM')
+        from pathlib import Path
+        try:
+            desktop_path = Path.home() / "Desktop"
+            work_dir = os.path.join(desktop_path, 'GZZC_LLM')
+
+            if os.path.exists(work_dir):
+                os.chdir(work_dir)
+            else:
+                return '此路径不存在'
+        except:
+            print('创建失败')
         global Filename
         if self.mod:
             if not self.askforsave():
